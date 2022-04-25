@@ -1,0 +1,5 @@
+begin fart
+  squeezeOut "hello"
+  squeezeOut "[space]"
+  squeezeOut "world"
+end fart
